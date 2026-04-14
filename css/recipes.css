@@ -1,0 +1,44 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+.main-collumn {
+    width: 600px;
+    margin: 60px auto;
+}
+
+.description {
+    margin-bottom: 10px;
+}
+
+.recipe-details .label {
+    font-weight: bold;
+}
+
+.recipe-details .item {
+    background-color: antiquewhite;
+    padding: 18px 26px;
+    margin-right: 10px;
+}
+    
+.recipe-details {
+    display: flex;
+    box-sizing: border-box;
+    margin-bottom: 40px;
+    font-size: smaller;
+}
+
+.image {
+    margin-bottom: 20px;
+}
+
+#button {
+    background-color: #eee;
+    text-align: center;
+    padding: 14px 18px;
+    display: inline-block;
+}
+
+hr {
+    border: 0px;
+}
