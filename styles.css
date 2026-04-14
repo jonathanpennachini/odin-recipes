@@ -1,0 +1,28 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: white;
+}
+
+.recipes-menu {
+    background-color: #eee;
+    box-sizing: border-box;
+    width: 900px;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+.title {
+    font-size: 32px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+img {
+    width: 100px;
+}
+
+.item {
+    background-color: white;
+    padding: 16px 20px;
+    margin: 10px auto;
+}
